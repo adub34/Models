@@ -10,9 +10,9 @@ All feedback is appreciated. I can be reached at adrianwilburn@icloud.com with a
 
 Sector Focus and Models Completed:
 Tech: META
-Consumer
-Information Technology
-Ecommerce
-Mining 
-Manufacturing
+Consumer:
+Information Technology:
+Ecommerce:
+Mining:
+Manufacturing:
 
