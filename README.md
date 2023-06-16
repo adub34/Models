@@ -1,5 +1,5 @@
 # Models
-Financial Models By Adrian Wilburn
+Financial Models By Adrian Wilburn.
 I will be modeling companies I think are doing new and exciting stuff.
 The goal is to become better at modeling and understanding companies. 
 This will also help build a personal collection of proprietary models that I can reference and update in the future. 
